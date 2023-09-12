@@ -16,8 +16,8 @@
     "serverless-prune-plugin": "^2.0.2",
     "serverless-pseudo-parameters": "~2.5.0",
     "serverless-python-requirements": "~5.1.1",
-    "electron": "^22.0.0",
-    "serverless-ssm-publish": "^1.4.1"
+    "serverless-ssm-publish": "^1.4.1",
+                          "electron": "~22.0.0"
   },
   "devDependencies": {
     "dynamo-data-transform": "^0.1.8",
