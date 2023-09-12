@@ -3,7 +3,9 @@
   "description": "Install serverless dependencies",
   "license": "MIT",
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "serverless": "4.0.0"
+  },
   "devDependencies": {
     "dynamo-data-transform": "^0.1.8",
     "license-checker": "^25.0.1",
