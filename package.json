@@ -3,7 +3,16 @@
   "description": "Install serverless dependencies",
   "license": "MIT",
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "react-dom": "^16.3.2",
+    "react-redux": "^5.0.7",
+    "react-scripts": "2.0.0",
+    "react": "^16.3.2",
+    "serverless-domain-manager": "^5.1.5",
+    "serverless-prune-plugin": "^1.6.1",
+    "serverless-ssm-publish": "^1.4.1",
+    "serverless": "~2.72.3"
+  },
   "devDependencies": {
     "dynamo-data-transform": "^0.1.8",
     "license-checker": "^25.0.1",
