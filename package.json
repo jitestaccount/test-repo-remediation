@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "description": "Install serverless dependencies",
+  "aaa": "2.0.0",
   "license": "MIT",
   "private": true,
   "dependencies": {
