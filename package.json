@@ -11,7 +11,7 @@
     "serverless-domain-manager": "^5.1.5",
     "serverless-prune-plugin": "^1.6.1",
     "serverless-ssm-publish": "^1.4.1",
-    "serverless": "~2.72.3"
+    "serverless": "3.35.2"
   },
   "devDependencies": {
     "dynamo-data-transform": "^0.1.8",
